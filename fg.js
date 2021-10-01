@@ -2253,8 +2253,8 @@ case 'stickergif':
 case 'sgif':  
   if (!isVerify) return reply(userB(prefix))
   if (isBanned) return reply(banf())
-					var a = 'FG98'
-        var b = 'DyLux v4'
+					var a = 'mandioka_postin'
+        var b = 'carlos_duartex'
         if (
           ((isMedia && !mek.message.videoMessage) || isQuotedImage) &&
           args.length == 0
