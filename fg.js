@@ -2170,7 +2170,7 @@ break
  case 'play':
 			if (!isVerify) return reply(userB(prefix))
   if (isBanned) return reply(banf())
-   if (args.length < 1) return reply(`✳️ *Ingresa el título de una canción*\n\n📌Ejemplo *${prefix + command}* Lil Peep broken smile`)
+   if (args.length < 1) return reply(`✳️ *Ingresa el título de una canción*\n\n📌Ejemplo *${prefix + command}* Kemil Yambay Areko cuatro kuña🇵🇾🥵🍻`)
   reply(wait())
             var srch = args.join('')
     		ytfg = await yts(srch);
