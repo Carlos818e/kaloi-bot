@@ -1,10 +1,10 @@
 exports.help = (prefix,pushname) => {
 	return ` Hola *${pushname}*
-_creador_:https://instagram.com/mandioka_postin?utm_medium=copy_link
+_creador_:Cαrlosduαrte
+Instagram:https://instagram.com/mandioka_postin?utm_medium=copy_link
 ≡ INFO BOT
 ┌──────────────
 ❐ *${prefix}reglas*
-❐ *${prefix}info*
 ❐ *${prefix}bot* _(simsimi)_
 ❐ *${prefix}report*
 ❐ *${prefix}ping*
